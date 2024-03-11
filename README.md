@@ -3,7 +3,7 @@ NowPlaying Ratings
 
 A skin for jivelite that displays rating stars on the *Now Playing* screen of your **SB Radio**.<br>Based on *QVGAlandscapeSkin*.<br>
 ⚠ Only for **SB Radio**.
-<br><br><br>
+<br><br>
 
 [⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
 <br><br><br>
@@ -17,13 +17,14 @@ A skin for jivelite that displays rating stars on the *Now Playing* screen of yo
 - colored track title if the track's comments tag contains a user-specified keyword<br>
 
 <br>
+
 Settings are here: **Settings > Screen > Now Playing**.
 <br><br><br>
 
 ## Screenshots
 
-<img src="screenshots/radio1.jpg" width="100%"><br><br>
-<img src="screenshots/radio2.jpg" width="100%"><br><br>
+<img src="screenshots/radio1.jpg" width="50%"><br><br>
+<img src="screenshots/radio2.jpg" width="50%"><br><br>
 
 <br><br><br>
 
