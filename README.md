@@ -10,16 +10,13 @@ A skin for jivelite that displays rating stars on the *Now Playing* screen of yo
 
 ## Features
 
-- displays **rating stars on the Now Playing screen**(s)
+- displays **rating stars on the Now Playing screen**
 
 - **easy way to install and uninstall** the skin using an **installer applet**<br>
 
 - colored track title if the track's comments tag contains a user-specified keyword<br>
 
 <br>
-
-This skin comes with the usual VU meters and the default spectrum visualizer. If you're more interested in VU meters and spectrum visualizers, there are other skins, e.g. what blaisedias has created (see [LMS forum post](https://forums.slimdevices.com/forum/user-forums/linux-unix/1644111-new-visualisation-features-on-jivelite)).<br>
-
 Settings are here: **Settings > Screen > Now Playing**.
 <br><br><br>
 
