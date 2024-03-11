@@ -31,7 +31,7 @@ Settings are here: **Settings > Screen > Now Playing**.
 
 ## Installation
 
-**First** you install the NowPlaying Ratings skin installer applet which you will **then** use to install the skin.<br>
+**First** you install the NowPlaying Ratings skin installer applet which you will **then** use to install the necessary files.<br>
 
 #### #1 - Get the installer
 
@@ -50,13 +50,9 @@ Settings are here: **Settings > Screen > Now Playing**.
 
 - Follow the menu instructions.<br>
 
-- Your device will reboot automatically.<br><br>
-
-#### #3 - Enable the new skin
+- Your device will reboot automatically.<br>
 
 - Go to **Settings > Screen > Select skin** to enable the NowPlaying Ratings Skin.
-
-- Read the FAQ on this page.
 
 <br><br><br>
 
