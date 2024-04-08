@@ -21,7 +21,7 @@ A skin for jivelite that displays rating stars on the *Now Playing* screen of yo
 Settings are here: **Settings > Screen > Now Playing**.
 <br><br><br>
 
-## Screenshots
+## Screenshots[^1]
 
 <img src="screenshots/radio1.jpg" width="50%"><br><br>
 <img src="screenshots/radio2.jpg" width="50%"><br><br>
@@ -83,3 +83,4 @@ If you want to report a new issue, please fill out this [**issue report template
 
 If you'd like me to make small changes to the skin, please test the new changes on your device/OS first and then create a pull request with the changes here.
 <br><br><br>
+[^1]: The screenshots might not correspond to the current UI in every detail.
