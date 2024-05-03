@@ -81,6 +81,7 @@ Settings are here: **Settings > Screen > Now Playing**.
 
 If you want to report a new issue, please fill out this [**issue report template**](https://github.com/AF-1/jivelite-nowplayingscreenwithratings/issues/new?template=bug_report.md&title=%5BISSUE%5D+).<br><br>
 
-If you'd like me to make small changes to the skin, please test the new changes on your device/OS first and then create a pull request with the changes here.
+If you'd like me to make small changes to the skin, please test the new changes on your device/OS first and then create a pull request with the changes here.<br><br>
+If you use this applet and like it, perhaps you could give it a :star: so that other users can discover it (in their News Feed). Thank you.
 <br><br><br>
 [^1]: The screenshots might not correspond to the current UI in every detail.
